@@ -46,7 +46,7 @@ public class Main {
         employeesLessThanThirty.add(employees.get(2));
         employeesLessThanThirty.add(employees.get(4));
 
-        System.out.println("Empleados menores a los 30 años: \n" + employeesLessThanThirty.toString() + "\n");
+        System.out.println("Empleados menores a los 30 años:  \n" + employeesLessThanThirty.toString() + "\n");
 
         return employeesLessThanThirty;
 }
